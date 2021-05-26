@@ -1,4 +1,4 @@
-# ts-vue-rename-repro
+# tsx-vue-style-rename-repro
 
 ## Project setup
 
